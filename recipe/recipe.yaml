@@ -6,7 +6,7 @@ package:
   version: ${{ version }}
 
 source:
-  url: https://pypi.org/packages/source/g/gixy_ng/gixy_ng-${{ version }}.tar.gz
+  url: https://files.pythonhosted.org/packages/source/g/gixy_ng/gixy_ng-${{ version }}.tar.gz
   sha256: 86066924574ae9f67e6ef1bd1f4ce336d29ad3f9329373b253f6cfc066a79606
 
 build:
