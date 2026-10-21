@@ -1,5 +1,5 @@
 context:
-  version: "0.2.55"
+  version: "0.2.57"
 
 package:
   name: gixy-ng
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://files.pythonhosted.org/packages/source/g/gixy_ng/gixy_ng-${{ version }}.tar.gz
-  sha256: 5f3cb7e09e9c37f4d0d15130ca0c797e5a589acfefba92440bc5f187643ef3c2
+  sha256: 7feabc25746e12ad6f7b3dd5b1de09bd588986c174ad199a3ad975270697a588
 
 build:
   number: 0
